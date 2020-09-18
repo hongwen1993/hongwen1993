@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**hongwen1993/hongwen1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i❓ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hongwen.hongwen)
 
-Here are some ideas to get you started:
+星空道极宗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Talk me 
+
+QQ 群：476067618
+[![https://t.me/hongwen](https://img.shields.io/badge/Telegram-hongwen-blue.svg?logo=telegram)](https://t.me/hongwen) 
+[![https://t.me/hongwen](https://img.shields.io/badge/Discord-hongwen-99f.svg?logo=Discord)](https://discord.gg/hongwen)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongwen1993&layout=compact)
+
